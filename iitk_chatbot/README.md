@@ -15,7 +15,7 @@ This is a transformer-powered chatbot that answers user queries using content sc
 
 ## Directory Structure
 
-iitk_chatbot/n
+iitk_chatbot
 
 ├── app.py                 # Streamlit UI
 
