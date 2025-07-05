@@ -37,11 +37,11 @@ iitk_chatbot/n
 
 ### 1. Clone the Repo
 
-git clone https://github.com/yourusername/Pulpnet-Assignment-241054_Sumath/iitk-chatbot.git
+git clone https://github.com/yourusername/Pulpnet-Assignment-241054_Sumath/iitk_chatbot.git
 
 cd Pulpnet-Assignment-241054_Sumath
 
-cd iitk-chatbot
+cd iitk_chatbot
 
 ### 2.Install dependencies
 pip install -r requirements.txt
