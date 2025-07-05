@@ -61,13 +61,5 @@ def get_answer(query):
 
     sorted_sentences = sorted(set(sentence_candidates), key=lambda x: x[0], reverse=True)
     top_sentences = [sent for _, sent in sorted_sentences[:5]]
-    new=[]
-    if 'Dhobi' in words:
-        for i in top_sentences:
-            if 'Written' in i:
-                continue
-            if any(word.lower() in i.lower() for word in words):
-                new.append(i)
-        return new
     return top_sentences
 
