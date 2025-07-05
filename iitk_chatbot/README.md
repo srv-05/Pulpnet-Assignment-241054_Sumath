@@ -15,7 +15,7 @@ This is a transformer-powered chatbot that answers user queries using content sc
 
 ## Directory Structure
 
-iitk_chatbot/
+iitk_chatbot/n
 ├── app.py                 # Streamlit UI
 ├── qa_pipeline.py         # Retrieval + QA logic
 ├── scrape_iitk.py         # Vox Populi scraper
@@ -30,7 +30,7 @@ iitk_chatbot/
 
 ### 1. Clone the Repo
 
-git clone https://github.com/yourusername//iitk-chatbot.git
+git clone https://github.com/yourusername/Pulpnet-Assignment-241054_Sumath/iitk-chatbot.git
 cd iitk-chatbot
 
 ### 2.Install dependencies
