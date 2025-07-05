@@ -39,6 +39,8 @@ iitk_chatbot/n
 
 git clone https://github.com/yourusername/Pulpnet-Assignment-241054_Sumath/iitk-chatbot.git
 
+cd Pulpnet-Assignment-241054_Sumath
+
 cd iitk-chatbot
 
 ### 2.Install dependencies
